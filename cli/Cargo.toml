@@ -1,0 +1,9 @@
+[package]
+name = "dg2"
+version = "0.1.0"
+authors = ["zseri <zseri.devel@ytrizja.de>"]
+edition = "2018"
+license = "Apache-2.0"
+
+[dependencies]
+dg2core = { path = "../core" }
